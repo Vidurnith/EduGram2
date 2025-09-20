@@ -1,0 +1,4 @@
+Flask==2.3.2
+gunicorn==21.2.0
+# ... and a few other packages that Flask depends on
+
